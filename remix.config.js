@@ -6,7 +6,7 @@ module.exports = {
   // assetsBuildDirectory: "public/build",
   // publicPath: "/build/",
   // serverBuildPath: "build/index.js",
-  serverModuleFormat: "cjs",
+  /* serverModuleFormat: "cjs",
   future: {
     v2_dev: false,
     v2_errorBoundary: false,
@@ -18,4 +18,5 @@ module.exports = {
   routes(defindRoutes) {
     return createRoutesFromFolders(defindRoutes);
   },
+  */
 };
